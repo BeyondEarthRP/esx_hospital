@@ -13,9 +13,9 @@ Config.BlipHospital = {
 	Scale = 1.0
 }
 
-Config.Price = 100 -- Edit this to your liking.
+Config.Price = 10000 -- Edit this to your liking.
 
-Config.EnableUnemployedOnly = true -- If true it will only show Blips to Unemployed Players | false shows it to Everyone.
+Config.EnableUnemployedOnly = false -- If true it will only show Blips to Unemployed Players | false shows it to Everyone.
 Config.EnableBlips = true -- If true then it will show blips | false does the Opposite.
 Config.EnablePeds = true -- If true then it will add Peds on Markers | false does the Opposite.
 
